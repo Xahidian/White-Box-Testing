@@ -3,6 +3,7 @@
 
 ## Overview
 This repository contains my work for the university project where I explored various testing concepts and tools related to Java development. The main topics covered are:
+- White Box Testing : This is a software testing technique that focuses on the internal logic, structure, and coding of an application.
 - Test Cases: Writing effective test cases to validate the functionality of Java code.
 - Control Flow Graph (CFG): Analyzing the control flow within the code to identify potential paths.
 - Mutation Testing: Evaluating the robustness of test suites by introducing artificial defects.
@@ -16,7 +17,7 @@ This repository contains my work for the university project where I explored var
 - draw.io for creating a CFG based on the code
 
 ## Report
-- I have also written a detailed report based on these Assignment. The report provides a comprehensive overview of the Assignment, including the Control Flow Graph and Test Path Coverage. For more information, please refer to the report.
+- I have also written a detailed report based on these Project. The report provides a comprehensive overview of the Assignment, including the Control Flow Graph and Test Path Coverage. For more information, please refer to the report.
 
 
 ## Contact
