@@ -1,5 +1,5 @@
 # Software-Testing-2
-# University Assignment: White Box testing
+# White Box testing
 
 ## Overview
 This repository contains my work for the university project where I explored various testing concepts and tools related to Java development. The main topics covered are:
